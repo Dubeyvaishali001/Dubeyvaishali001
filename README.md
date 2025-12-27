@@ -2,10 +2,12 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/CEG_Guindy_Main_Building.jpg" 
-       alt="College of Engineering Guindy" 
-       width="700"/>
+  <img src="https://raw.githubusercontent.com/Dubeyvaishali001/Dubeyvaishali001/main/WhatsApp Image 2025-12-27 at 8.48.49 PM.jpeg"
+       alt="College of Engineering Guindy"
+       width="100%"/>
 </p>
+
+
 <h2 align="center">👋 Hi there, I'm Vaishali Dubey</h2>
 
 <h3 align="center">
