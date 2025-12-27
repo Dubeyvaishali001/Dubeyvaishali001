@@ -1,5 +1,19 @@
+
 # 💫 About Me:
-## 👋 Hi there, I'm Vaishali Dubey  <br><br>🔭 **I’m currently working on**  <br>- Java-based backend applications  <br>- AI & Machine Learning projects using Python  <br>- Integrating AI models into real-world applications  <br><br>👯 **I’m looking to collaborate on**  <br>- Java backend & system design projects  <br>- AI / ML / GenAI-based applications  <br>- Open-source projects combining Java + AI  <br><br>🤝 **I’m looking for help with**  <br>- Scalable backend architectures in Java  <br>- Deploying AI models into production systems  <br>- Optimizing performance of ML pipelines  <br><br>🌱 **I’m currently learning**  <br>- Advanced Java (Multithreading, Collections, JVM)  <br>- Machine Learning & Deep Learning concepts  <br>- Generative AI, LLMs, and Prompt Engineering  <br><br>💬 **Ask me about**  <br>- Core Java, OOPs, Data Structures  <br>- Machine Learning & NLP basics  <br>- Backend development & API design  <br><br>⚡ **Fun fact**  <br>- I enjoy building intelligent systems that combine strong backend logic with AI 🤖  <br>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/CEG_Guindy_Main_Building.jpg" 
+       alt="College of Engineering Guindy" 
+       width="700"/>
+</p>
+<h2 align="center">👋 Hi there, I'm Vaishali Dubey</h2>
+
+<h3 align="center">
+🎓 CEGian 2025 | College of Engineering Guindy <br>
+🏆 NIRF Rank 20 (Engineering)
+</h3>
+
+<br><br>🔭 **I’m currently working on**  <br>- Java-based backend applications  <br>- AI & Machine Learning projects using Python  <br>- Integrating AI models into real-world applications  <br><br>👯 **I’m looking to collaborate on**  <br>- Java backend & system design projects  <br>- AI / ML / GenAI-based applications  <br>- Open-source projects combining Java + AI  <br><br>🤝 **I’m looking for help with**  <br>- Scalable backend architectures in Java  <br>- Deploying AI models into production systems  <br>- Optimizing performance of ML pipelines  <br><br>🌱 **I’m currently learning**  <br>- Advanced Java (Multithreading, Collections, JVM)  <br>- Machine Learning & Deep Learning concepts  <br>- Generative AI, LLMs, and Prompt Engineering  <br><br>💬 **Ask me about**  <br>- Core Java, OOPs, Data Structures  <br>- Machine Learning & NLP basics  <br>- Backend development & API design  <br><br>⚡ **Fun fact**  <br>- I enjoy building intelligent systems that combine strong backend logic with AI 🤖  <br>
 
 
 ## 🌐 Socials:
