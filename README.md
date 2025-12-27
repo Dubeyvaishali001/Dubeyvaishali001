@@ -13,7 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeyvaishali001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dubeyvaishali001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dubeyvaishali001&theme=radical&no-frame=true&margin-w=4)](https://github.com/Dubeyvaishali001)
+
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
