@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dubeyvaishali001/Dubeyvaishali001/main/WhatsApp Image 2025-12-27 at 8.48.49 PM.jpeg"
+  <img src="https://raw.githubusercontent.com/Dubeyvaishali001/Dubeyvaishali001/main/abc.jpeg"
        alt="College of Engineering Guindy"
        width="100%"/>
 </p>
