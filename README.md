@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dubeyvaishali001/Dubeyvaishali001/main/abc1.jpeg"
+  <img src="https://raw.githubusercontent.com/Dubeyvaishali001/Dubeyvaishali001/main/abc.jpeg"
        alt="College of Engineering Guindy"
        width="100%"/>
 </p>
