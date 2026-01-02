@@ -89,11 +89,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dubeyvaishali001&theme=radical&no-frame=true&margin-w=4" />
-</p>
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
