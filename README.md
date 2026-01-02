@@ -6,7 +6,7 @@
        width="100%"/>
 </p>
 
-<h2 align="center">👋 Hi there, I'm Vaishali Dubey</h2>
+<h2 align="center">👋 Hi there, I'm Vaishali Dubey (A Software Developer)</h2>
 
 <h3 align="center">
 🎓 CEGian 2025 | College of Engineering Guindy <br>
