@@ -85,7 +85,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,python,mongodb,mysql,postgres,linux,git" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,python,mongodb,mysql,postgres,linux,git, VSCODE, ECLIPSE IDE, IntelliJ IDEA" />
 </p>
 
 ### ☁️ Deployment & Tools
