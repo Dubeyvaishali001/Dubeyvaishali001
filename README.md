@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dubeyvaishali001/Dubeyvaishali001/main/abc.jpeg"
