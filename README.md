@@ -88,10 +88,20 @@
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dubeyvaishali001&theme=dark&hide_border=false&include_all_commits=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dubeyvaishali001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeyvaishali001&theme=dark&hide_border=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dubeyvaishali001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeyvaishali001&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dubeyvaishali001&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
